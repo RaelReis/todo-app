@@ -53,3 +53,7 @@ export const CreateAccountButton = styled.TouchableOpacity`
   align-items: center;
   border-radius: 10px;
 `;
+
+export const CreateAccountButtonText = styled.Text`
+    
+`
